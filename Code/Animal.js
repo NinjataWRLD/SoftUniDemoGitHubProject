@@ -7,3 +7,9 @@ class Dog {
     age;
     breed;
 }
+
+class Rabit {
+    name;
+    age;
+    color;
+}
